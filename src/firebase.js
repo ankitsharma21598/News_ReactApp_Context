@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
-
+// Add Firebase configuration here:
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
